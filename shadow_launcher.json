@@ -1,0 +1,19 @@
+{
+	"clientVersion": "15.03",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "ShadowOnline",
+	"newClientUrl" : "",
+	"clientExecutable": "shadowonline.exe"
+}
